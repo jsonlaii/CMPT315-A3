@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jsonlaii/CMPT315-A3/static/css/main.e7dacbd0.css",
-    "main.js": "/jsonlaii/CMPT315-A3/static/js/main.7c155236.js",
-    "static/js/787.4c4155cb.chunk.js": "/jsonlaii/CMPT315-A3/static/js/787.4c4155cb.chunk.js",
-    "index.html": "/jsonlaii/CMPT315-A3/index.html",
-    "main.e7dacbd0.css.map": "/jsonlaii/CMPT315-A3/static/css/main.e7dacbd0.css.map",
-    "main.7c155236.js.map": "/jsonlaii/CMPT315-A3/static/js/main.7c155236.js.map",
-    "787.4c4155cb.chunk.js.map": "/jsonlaii/CMPT315-A3/static/js/787.4c4155cb.chunk.js.map"
+    "main.css": "/CMPT315-A3/static/css/main.e7dacbd0.css",
+    "main.js": "/CMPT315-A3/static/js/main.3953416a.js",
+    "static/js/787.4c4155cb.chunk.js": "/CMPT315-A3/static/js/787.4c4155cb.chunk.js",
+    "index.html": "/CMPT315-A3/index.html",
+    "main.e7dacbd0.css.map": "/CMPT315-A3/static/css/main.e7dacbd0.css.map",
+    "main.3953416a.js.map": "/CMPT315-A3/static/js/main.3953416a.js.map",
+    "787.4c4155cb.chunk.js.map": "/CMPT315-A3/static/js/787.4c4155cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7dacbd0.css",
-    "static/js/main.7c155236.js"
+    "static/js/main.3953416a.js"
   ]
 }
